@@ -1,54 +1,6 @@
 {
   "base_sha": "e4aacd6c023a739c11593509ecf0e6cb51a2919b",
-  "pending": {
-    "channel": "C0707JNTCKT",
-    "current_conflict_pr": 4,
-    "pr_number": 1,
-    "pre_action_prs": [
-      {
-        "added_by": "U06V8UPCG1Y",
-        "added_by_name": "akshatjaiswal521",
-        "number": 1,
-        "sha_after": "1eb9cd90b850e10d700c55dbddd35d033711603c",
-        "title": "Update README to remove personal info"
-      },
-      {
-        "added_by": "U06V8UPCG1Y",
-        "added_by_name": "akshatjaiswal521",
-        "number": 2,
-        "sha_after": "e2e7dd685aac19120b3fa8ceb5594e27fc64815a",
-        "title": "Revise README introduction"
-      },
-      {
-        "added_by": "U06V8UPCG1Y",
-        "added_by_name": "akshatjaiswal521",
-        "number": 3,
-        "sha_after": "c53a03d9fcea9313440a5e07b467ddc36e08104f",
-        "title": "Update README to remove personal info"
-      },
-      {
-        "added_by": "U06V8UPCG1Y",
-        "added_by_name": "akshatjaiswal521",
-        "number": 4,
-        "sha_after": "3024fe250e296da5f668d06dac31ed0fca90fe53",
-        "title": "Update README to remove personal info"
-      }
-    ],
-    "pre_action_sha": "3024fe250e296da5f668d06dac31ed0fca90fe53",
-    "remaining_prs": [],
-    "resolution_branch": "devbot/work-remove-1",
-    "resolution_pr": 10,
-    "response_url": "https://hooks.slack.com/commands/T06V61QUJS1/10997287862210/gIxuJubxGehXaVIKb7yWjhTL",
-    "sha_updates": {
-      "2": "d9c6672fb857d8a103b6f8e22a3695622c41ef33",
-      "3": "0dc6cf74b90a2439225b007b2a1d034c0cbfd536"
-    },
-    "triggered_by": "akshatjaiswal521",
-    "triggered_by_id": "U06V8UPCG1Y",
-    "type": "remove",
-    "workflow": "workspace_replay",
-    "workspace_branch": "devbot/work-remove-1"
-  },
+  "pending": null,
   "prs": [
     {
       "added_by": "U06V8UPCG1Y",
