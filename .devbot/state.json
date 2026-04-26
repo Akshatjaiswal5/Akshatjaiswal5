@@ -1,6 +1,14 @@
 {
   "base_sha": "e4aacd6c023a739c11593509ecf0e6cb51a2919b",
   "pending": null,
-  "prs": [],
+  "prs": [
+    {
+      "added_by": "U06V8UPCG1Y",
+      "added_by_name": "akshatjaiswal521",
+      "number": 1,
+      "sha_after": "1eb9cd90b850e10d700c55dbddd35d033711603c",
+      "title": "Update README to remove personal info"
+    }
+  ],
   "snapshots_valid": true
 }
