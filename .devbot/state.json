@@ -1,6 +1,32 @@
 {
   "base_sha": "e4aacd6c023a739c11593509ecf0e6cb51a2919b",
-  "pending": null,
+  "pending": {
+    "channel": "C0707JNTCKT",
+    "pr_number": 1,
+    "pre_action_prs": [
+      {
+        "added_by": "U06V8UPCG1Y",
+        "added_by_name": "akshatjaiswal521",
+        "number": 3,
+        "sha_after": "e64573bb6412e30353f013fcefe4f94c93688100",
+        "title": "Update README to remove personal info"
+      },
+      {
+        "added_by": "U06V8UPCG1Y",
+        "added_by_name": "akshatjaiswal521",
+        "number": 4,
+        "sha_after": "02d9d5cbd748ad19eadaaf1cf112ed9be455f144",
+        "title": "Update README to remove personal info"
+      }
+    ],
+    "pre_action_sha": "02d9d5cbd748ad19eadaaf1cf112ed9be455f144",
+    "resolution_branch": "devbot/resolve-add-1",
+    "resolution_pr": 11,
+    "response_url": "https://hooks.slack.com/commands/T06V61QUJS1/10993885858677/rV9ZrVobmzaaNJDqL65fOBtJ",
+    "triggered_by": "akshatjaiswal521",
+    "triggered_by_id": "U06V8UPCG1Y",
+    "type": "add"
+  },
   "prs": [
     {
       "added_by": "U06V8UPCG1Y",
