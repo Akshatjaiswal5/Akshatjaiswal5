@@ -1,28 +1,6 @@
 {
   "base_sha": "e4aacd6c023a739c11593509ecf0e6cb51a2919b",
   "pending": null,
-  "prs": [
-    {
-      "added_by": "U06V8UPCG1Y",
-      "added_by_name": "akshatjaiswal521",
-      "number": 3,
-      "sha_after": "7b32bb872303e46161897d8de56a626f1186df59",
-      "title": "Update README to remove personal info"
-    },
-    {
-      "added_by": "U06V8UPCG1Y",
-      "added_by_name": "akshatjaiswal521",
-      "number": 4,
-      "sha_after": "7b32bb872303e46161897d8de56a626f1186df59",
-      "title": "Update README to remove personal info"
-    },
-    {
-      "added_by": "U06V8UPCG1Y",
-      "added_by_name": "akshatjaiswal521",
-      "number": 1,
-      "sha_after": "7b32bb872303e46161897d8de56a626f1186df59",
-      "title": "Update README to remove personal info"
-    }
-  ],
-  "snapshots_valid": false
+  "prs": [],
+  "snapshots_valid": true
 }
