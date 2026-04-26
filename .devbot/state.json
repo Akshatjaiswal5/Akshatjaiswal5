@@ -2,7 +2,10 @@
   "base_sha": "e4aacd6c023a739c11593509ecf0e6cb51a2919b",
   "pending": {
     "channel": "C0707JNTCKT",
-    "current_conflict_pr": 3,
+    "current_conflict_head_label": "Akshatjaiswal5:Akshatjaiswal5-patch-4",
+    "current_conflict_pr": 4,
+    "current_conflict_title": "Update README to remove personal info",
+    "current_conflict_user": "Akshatjaiswal5",
     "pr_number": 1,
     "pre_action_prs": [
       {
@@ -35,13 +38,12 @@
       }
     ],
     "pre_action_sha": "3024fe250e296da5f668d06dac31ed0fca90fe53",
-    "remaining_prs": [
-      4
-    ],
+    "remaining_prs": [],
     "resolution_branch": "devbot/work-remove-1",
-    "resolution_pr": 8,
+    "resolution_pr": 9,
     "sha_updates": {
-      "2": "da975d9fa9d2516e2e88d6aac0bb0b09ce0439df"
+      "2": "da975d9fa9d2516e2e88d6aac0bb0b09ce0439df",
+      "3": "362fae5090bb5bdd6b124d58569d98e6d8ed7edf"
     },
     "triggered_by": "akshatjaiswal521",
     "triggered_by_id": "U06V8UPCG1Y",
